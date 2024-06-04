@@ -3,6 +3,7 @@ module go-efficient-example
 go 1.21.1
 
 require (
+	github.com/labstack/echo-contrib v0.17.1
 	github.com/labstack/echo/v4 v4.12.0
 	gorm.io/driver/mysql v1.5.6
 	gorm.io/gorm v1.25.10
